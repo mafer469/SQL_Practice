@@ -8,12 +8,21 @@ The focus is on developing skills relevant to data roles:
 - Aggregations
 - Basic data cleaning queries
 
-## Folder Structure
-- `basics/` – foundational SQL exercises
-- `joins/` – inner/left/right/full join practice
-- `window-functions/` – ranking, partitioning, running totals
-- `ctes/` – readable multi-step queries
-- `data-abalysis-mini-project/` – applied SQL on sample datasets
+## Repo Structure
+```
+|
+|-- basics/ – foundational SQL exercises
+|   |-- basics.sql
+|
+|-- joins/ – inner/left/right/full join practice
+|
+|--window-functions/ – ranking, partitioning, running totals
+|
+|--ctes/– readable multi-step queries
+|
+|--data-abalysis-mini-project/ – applied SQL on sample datasets
+```
+
 
 ## Tools Used
 - PostgreSQL / SQLite
