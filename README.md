@@ -1,2 +1,24 @@
-# SQL_Practice
-Purpose: Exercises + small quer
+# SQL Practice & Mini-Projects
+
+This repository contains my SQL learning journey and small practice projects.  
+The focus is on developing skills relevant to data roles:
+- Joins
+- Window functions
+- CTEs
+- Aggregations
+- Basic data cleaning queries
+
+## Folder Structure
+- `basics/` – foundational SQL exercises
+- `joins/` – inner/left/right/full join practice
+- `window-functions/` – ranking, partitioning, running totals
+- `ctes/` – readable multi-step queries
+- `data-abalysis-mini-project/` – applied SQL on sample datasets
+
+## Tools Used
+- PostgreSQL / SQLite
+- DB Browser for SQLite / DBeaver
+- Jupyter + sql extension (optional)
+
+## Status
+Actively updated as I practice SQL weekly.
