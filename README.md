@@ -10,6 +10,7 @@ The focus is on developing skills relevant to data roles:
 
 ## Repo Structure
 ```
+SQL_Practice/
 |
 |-- basics/ – foundational SQL exercises
 |   |-- basics.sql
@@ -21,6 +22,8 @@ The focus is on developing skills relevant to data roles:
 |--ctes/– readable multi-step queries
 |
 |--data-abalysis-mini-project/ – applied SQL on sample datasets
+|
+|--README.md
 ```
 
 
